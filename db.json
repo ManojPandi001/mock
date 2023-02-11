@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "rahul",
+      "image": "https://img.freepik.com/free-vector/cute-happy-smiling-child-isolated-white_1308-32243.jpg?size=338&ext=jpg",
+      "email": "rahul@gmail.com",
+      "password": "rahyl@123"
+    },
+    {
+      "name": "Deepak Bisht",
+      "image": "https://cdn.pixabay.com/photo/2017/07/02/09/03/books-2463779__340.jpg",
+      "email": "deepakbisht9773724383@gmail.com",
+      "password": "451",
+      "id": 2
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "name": "deepak",
+      "title": "ChatBGT",
+      "text": "ADDDFFFFFFFFFFFFFFFF ",
+      "category": "Lifestyle",
+      "date": "2023-02-13",
+      "likes": 0,
+      "comments": [
+        {
+          "userName": ""
+        },
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "name": "Deepak Bisht",
+      "title": "imagin",
+      "text": "adfadfadassssssssssssss",
+      "category": "Entertainment",
+      "date": "2023-02-16",
+      "likes": 0,
+      "comments": [
+        {
+          "userName": ""
+        },
+        {
+          "content": ""
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
